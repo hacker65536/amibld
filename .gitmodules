@@ -1,0 +1,12 @@
+[submodule "amibld-env"]
+	path = amibld-env
+	url = git@github.com:hacker65536/amibld-env
+[submodule "amibld-playbooks"]
+	path = amibld-playbooks
+	url = git@github.com:hacker65536/amibld-playbooks
+[submodule "amibld-runtime"]
+	path = amibld-runtime
+	url = git@github.com:hacker65536/amibld-runtime
+[submodule "amibld-sam"]
+	path = amibld-sam
+	url = git@github.com:hacker65536/amibld-sam
