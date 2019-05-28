@@ -4,22 +4,21 @@
 env
 --
 
-awsの基本リソース
-- vpc etc.
-- ecr
-- codebuild
-- codepipeline
+awsの基本リソースをIaCで作成する
+
 
 
 runtime
 --
-ciを回すためのコンテナ
+
+CIに必要なコンテナイメージを作成する
 
 playbooks
 --
-ansibleによるプロビジョニング
+ansibleによるconfigurationを行う
 
 
 sam
 --
-eventの通知
+
+実行のトリガーや通知を作成する
